@@ -1,4 +1,4 @@
-# Beloo 👋
+# Konichiwa 👋
 
 <div align="center">
 <img height="300" width="700" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
@@ -27,15 +27,17 @@
 
 # Languages & Tools 👨‍💻 🛠:
 
-<p align="center">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java" width="100">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="GCP" width="270">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="VSCode" width="240">
-</p>
+<div align="left">
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AI-6A1B9A?style=flat&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Data%20Science-512DA8?style=flat&logo=databricks&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+
+</div>
 
 </br>
 
@@ -43,16 +45,9 @@
 
 If you want to reach out to me for collaborations, questions, or just to say hi:
 
-<a href="mailto:belalahmedhussen2@gmail.com">
- <img align="left" alt="Gmail" width="130" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
+📫 Email: **belalahmedhussen2@gmail.com**  
+🔗 LinkedIn: [linkedin.com/in/belal-ahmed-b6b095255](https://www.linkedin.com/in/belal-ahmed-b6b095255/)
 
-<a href="https://www.linkedin.com/in/belal-ahmed-b6b095255/">
-  <img align="left" alt="LinkedIn" width="150" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</a>
-
-</br>
-</br>
 </br>
 
 <p align="center">  
@@ -60,4 +55,3 @@ If you want to reach out to me for collaborations, questions, or just to say hi:
     <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsernameHere&show_icons=true&theme=radical"/>
   </a>
 </p>
-
