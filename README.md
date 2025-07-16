@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# Belooo👋
 
 <div align="center">
 <img height="300" width="700" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
